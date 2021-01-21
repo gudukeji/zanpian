@@ -215,7 +215,7 @@ footer p{line-height:.36rem}
 .m_title .play_icon span{position:absolute;top:-.1rem;right:0;padding-right:0;color:#999;font-size:.28rem}
 .play_icon{margin-top:.1rem}
 .play_icon a{width:2.02rem;height:.6rem;background-color:#28ce6e;color:#fff;font-size:.28rem;text-align:center;line-height:.6rem;-webkit-border-radius:.03rem}
-.play_icon span{padding-left:.45rem;margin-left:.1rem;height:.6rem;color:#fff;font-size:.28rem;line-height:.6rem;background:url(../images/icon256.png) no-repeat;background-size:.4rem 24.4rem}
+.play_icon span{padding-left:.45rem;margin-left:.1rem;height:.6rem;color:#fff;font-size:.28rem;line-height:.6rem;background-size:.4rem 24.4rem}
 .play_icon span.site_tudou{background-position:0 -2.3rem}
 .play_icon span.site_sohu{background-position:0 -6.3rem}
 .play_icon span.site_youku{background-position:0 -9.5rem}
