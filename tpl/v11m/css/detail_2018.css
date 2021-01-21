@@ -1,4 +1,4 @@
-@charset 'utf-8';.detail_banner{overflow:hidden;height:3.62rem;padding:.3rem .2rem;background:#1f1f1f url(../mimage/banner_bg.png) 0 0 no-repeat}
+@charset 'utf-8';.detail_banner{overflow:hidden;height:3.62rem;padding:.3rem .2rem;background:#1f1f1f url(../images/banner_bg.png) 0 0 no-repeat}
 .detail_banner dt{overflow:hidden;float:left;width:2.26rem;height:3.02rem;display:-webkit-flex;display:flex;align-items:center}
 .detail_banner dd{position:relative;overflow:hidden;margin-left:2.46rem;padding:.07rem 0;height:3.02rem}
 .detail_banner i{position:absolute;right:.1rem;top:-.18rem;color:#474747;font-family:"PingFang SC Medium";font-size:.4rem}
